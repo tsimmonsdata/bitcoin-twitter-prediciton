@@ -4,8 +4,8 @@ import pandas as pd
 import math
 from numpy import log, random
 
-from btc_predict.util import get_project_path
-from btc_predict.transform_data import transform, series_to_supervised, train_test_split
+from helper import get_project_path
+from transform_data import transform, series_to_supervised, train_test_split
 
 
 class TestTransformData(unittest.TestCase):
