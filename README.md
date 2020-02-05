@@ -22,7 +22,7 @@ or <http://192.168.99.100:5000/predict> if using Docker Toolbox
 ## Futher Development
 
 1. Implement Logging
-2. Create template for the Flask app endpoint
+2. Create a template file for the Flask predict endpoint
 3. Add a train endpoint to the Flask app
 4. Find a better way to scale Google trend values
 5. Create a Model class to offer model choices
