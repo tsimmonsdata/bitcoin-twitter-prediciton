@@ -1,1 +1,0 @@
-Data collected using the Cryptory package, documentation available at https://github.com/dashee87/cryptory
